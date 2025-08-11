@@ -10,7 +10,7 @@
     "observability": {
       "enabled": true,
     },
-    "name": "bufferwebsite",
+    "name": "buffer-website",
     // "kv_namespaces": [
     //   {
     //     "binding": "CACHE",
