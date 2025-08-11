@@ -11,9 +11,8 @@
       "enabled": true,
     },
     "name": "buffer-website",
-    {
-     "pages_build_output_dir": "./dist"
-    },
+    "pages_build_output_dir": "./dist",
+    
     // "kv_namespaces": [
     //   {
     //     "binding": "CACHE",
