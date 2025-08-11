@@ -1,12 +1,13 @@
 {
     "$schema": "../../node_modules/wrangler/config-schema.json",
     "name": "buffer-website",
-    "main": ".output/server/index.mjs",
+  #  "main": ".output/server/index.mjs",
     "compatibility_date": "2025-07-05",
     "compatibility_flags": ["nodejs_compat"],
-    "assets": {
-      "directory": ".output/public",
-    },
+   # "assets": {
+   #   "directory": ".output/public",
+   #},
+    "compatibility_date": "2025-08-11",
     "observability": {
       "enabled": true,
     },
